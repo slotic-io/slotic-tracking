@@ -1,8 +1,8 @@
 ---
-name: "🐛 bug"
-about: 버그 및 오류 이슈 템플릿
-title: "🐛 "
-labels: "🐛 bug"
+name: "🚀 planning"
+about: 제품 기획 관련
+title: "planning: "
+labels: "🚀 planning"
 assignees: ''
 
 ---

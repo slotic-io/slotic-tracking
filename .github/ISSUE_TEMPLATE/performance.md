@@ -1,8 +1,8 @@
 ---
 name: "⚡️ performance"
 about: 성능 개선 이슈 템플릿
-title: "⚡️ "
-labels: "⚡️ feature"
+title: "performance "
+labels: "⚡️ performance"
 assignees: ''
 
 ---

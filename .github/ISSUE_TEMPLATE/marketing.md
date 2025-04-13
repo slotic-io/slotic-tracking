@@ -1,8 +1,8 @@
 ---
-name: "🐛 bug"
-about: 버그 및 오류 이슈 템플릿
-title: "🐛 "
-labels: "🐛 bug"
+name: "💌 marketing"
+about: 제품 마케팅 관련
+title: "marketing: "
+labels: "💌 marketing"
 assignees: ''
 
 ---
