@@ -4,7 +4,7 @@ about: 기능 추가 이슈 템플릿
 title: "feature: "
 labels: "✨ feature"
 type: "Feature"
-projects: "slotic"
+projects: ["slotic-io/1"]
 assignees: ''
 
 ---

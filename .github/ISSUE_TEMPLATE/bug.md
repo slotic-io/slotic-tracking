@@ -4,7 +4,7 @@ about: 버그 및 오류 이슈 템플릿
 title: "bug: "
 labels: "🐛 bug"
 type: "Bug"
-projects: "slotic"
+projects: ["slotic-io/1"]
 assignees: ''
 
 ---

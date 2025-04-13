@@ -4,7 +4,7 @@ about: 제품 기획 관련
 title: "planning: "
 labels: "🚀 planning"
 type: "Task"
-projects: "slotic"
+projects: ["slotic-io/1"]
 assignees: ''
 
 ---
