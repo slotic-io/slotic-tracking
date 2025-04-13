@@ -4,7 +4,6 @@ about: 성능 개선 이슈 템플릿
 title: "performance "
 labels: "⚡️ performance"
 type: "Feature"
-projects: ["slotic-io/1"]
 assignees: ''
 
 ---
